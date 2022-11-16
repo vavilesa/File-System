@@ -1,0 +1,9 @@
+mySample.txt, /home, 02/01/2021
+mySample.txt, /root, 02/01/2021
+mySample.txt, /user, 02/06/2021
+mySample.txt, /user, 02/06/2021
+notes.txt, /user/abc, 12/03/2021
+homework.pdf, /vic/2021, 03/25/2021
+project.pdf, /projects, 03/03/2021
+important.pdf, /home, 04/02/2021
+project.pdf, /user, 09/03/2021
